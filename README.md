@@ -3,11 +3,11 @@
 This repository contains a project completed as part of the Google Advanced Data Analytics Professional Certificate program. The program focuses on developing skills in data analysis, data visualization, and machine learning using Google Cloud Platform (GCP) tools and services. Each project spans the whole set of seven courses, focuses on applying the knowledge gained from the corresponding course and showcases practical skills in data analysis, data transformation, data visualization, and machine learning.
 
 
-##TikTok
+## TikTok
 
 At TikTok, our mission is to inspire creativity and bring joy. Our employees lead with curiosity and move at the speed of culture. Combined with our company's flat structure, you'll be given dynamic opportunities to make a real impact on a rapidly expanding company and grow your career. TikTok users have the ability to report videos and comments that contain user claims. These reports identify content that needs to be reviewed by moderators. This process generates a large number of user reports that are difficult to address quickly. TikTok is working on the development of a predictive model that can determine whether a video contains a claim or offers an opinion. With a successful prediction model, TikTok can reduce the backlog of user reports and prioritize them more efficiently.
 
-## Overview
+### Overview
 
 1. Project Proposal and Milestones: - Create a project proposal outlining milestones for the tasks within the comment classification project. - Consider the audience, project goals, team dynamics, and the PACE (Plan, Analyze, Communicate, Execute) stages while planning project deliverables.
 
