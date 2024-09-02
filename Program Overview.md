@@ -2,6 +2,8 @@
 
 The Google Advanced Data Analytics Professional Certificate program is a comprehensive learning path that covers a range of topics related to data analysis and machine learning. The program consists of the following courses:
 
+Click [here](https://github.com/ananda-ramiah/Classification-of-Employee-Turnover-Data) to view the capstone project, which includes detailed explantion for each step.
+
 ### Foundations of Data Science
 - Introduction to data science and its significance in the modern world.
 - Understanding data types, data sources, and data quality.
