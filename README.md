@@ -1,4 +1,4 @@
-# Classification-of-TikTok-videos
+# Classification of TikTok Video Claim Data
 
 This repository contains a project completed as part of the Google Advanced Data Analytics Professional Certificate program. The program focuses on developing skills in data analysis, data visualization, and machine learning using Google Cloud Platform (GCP) tools and services. Each project spans the whole set of seven courses, focuses on applying the knowledge gained from the corresponding course and showcases practical skills in data analysis, data transformation, data visualization, and machine learning.
 
